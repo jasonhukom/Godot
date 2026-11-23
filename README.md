@@ -1,6 +1,4 @@
-[← Back to Godot](../README.md)
-
-# godot-game
+# Godot
 
 > An **empty Godot 4.4 project**, the blank starting point for a future game.
 
